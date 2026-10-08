@@ -2,7 +2,9 @@
 
 ## Objective
 To create a basic Local Area Network (LAN) using one switch and four PCs and verify communication between the devices.
+## Network Topology and Verification
 
+![Topology and Verification](topology-and-verification.png)
 ## Devices Used
 - 1 Switch
 - 4 PCs
