@@ -53,7 +53,7 @@ B.Tech CSE
 
 ## Network Topology and Verification
 
-![Topology](ass-2-topology-and-verification.png.png)
+![Topology and Verification](ass-2-topology-and-verification.png)
 ## Software Used
 Cisco Packet Tracer
 
