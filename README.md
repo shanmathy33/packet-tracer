@@ -4,7 +4,7 @@
 To create a basic Local Area Network (LAN) using one switch and four PCs and verify communication between the devices.
 ## Network Topology and Verification
 
-![Topology and Verification](topology-and-verification.png)
+![Topology and Verification](ass-1-topology-and-verification.png)
 ## Devices Used
 - 1 Switch
 - 4 PCs
@@ -53,7 +53,7 @@ B.Tech CSE
 
 ## Network Topology and Verification
 
-![Topology](topology-and-verification.png.png)
+![Topology](ass-2-topology-and-verification.png.png)
 ## Software Used
 Cisco Packet Tracer
 
